@@ -1,6 +1,8 @@
+# **Sentiment-Analysis**
+
 This project was developed as part of the Data Mining academic course. It focuses on analyzing user sentiments from review sections of various websites.
 
-Key Highlights:
+## Key Highlights:
 
 🔍 Web Scraping: Collected review data using Python (BeautifulSoup, Requests).
 
